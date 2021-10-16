@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{7dca4599-f037-f172-2102-97664ede433d}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeShare.Runtime", "NativeShare.Runtime.csproj", "{826bed09-323b-e828-a0f9-2c51439fadb3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{4afab8a8-96b3-16a0-c5e1-0e179bb0caf0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NativeShare.Editor", "NativeShare.Editor.csproj", "{a92b77f1-b2bc-1b43-5cd5-7a7c662aa243}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7dca4599-f037-f172-2102-97664ede433d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7dca4599-f037-f172-2102-97664ede433d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{826bed09-323b-e828-a0f9-2c51439fadb3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{826bed09-323b-e828-a0f9-2c51439fadb3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4afab8a8-96b3-16a0-c5e1-0e179bb0caf0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4afab8a8-96b3-16a0-c5e1-0e179bb0caf0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{a92b77f1-b2bc-1b43-5cd5-7a7c662aa243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{a92b77f1-b2bc-1b43-5cd5-7a7c662aa243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
